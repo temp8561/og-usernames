@@ -22,6 +22,7 @@
 ## xbox gamertags
 
 - Reserve
+- Psychopaths
 - Idaho
 - Badly
 - Leer
