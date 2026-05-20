@@ -49,3 +49,7 @@
 - maniac
 - revenge
 - loser
+
+## snapchats
+
+- silicon
